@@ -143,7 +143,7 @@ if (fs.existsSync(filepath) && fs.statSync(filepath).isFile()) {
 }
 ```
 
-完整代码请查看[server.js](https://github.com/JofunLiang/node-static/blob/master/server.js)。
+完整代码请查看 [server.js](https://github.com/JofunLiang/node-static/blob/master/server.js)。
 
 
 
